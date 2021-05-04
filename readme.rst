@@ -17,8 +17,10 @@ Note that MagPySV must be installed before using the notebooks, preferably using
 MagPySV installation
 --------------------
 
-MagPySV can be installed via the Python Package Index (PyPI) using the command
-``pip install magpysv``. This also installs all required dependencies, including the BGS data downloading app. The example Juypyter notebooks  are not included in the PyPI installation and need to be downloaded from this GitHub project page after the software is installed.
+The puclished version of MagPySV can be installed via the Python Package Index (PyPI) using the command
+``pip install magpysv``. This also installs all required dependencies, including the BGS data downloading app. The example Juypyter notebooks here are not included in the PyPI installation and need to be downloaded from this GitHub project page after the software is installed.
+
+We recommend referring to the latest installation instructions at https://github.com/gracecox/MagPySV to keep up to date with any modifications.
 
 Reference
 ---------
